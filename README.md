@@ -1,7 +1,7 @@
 # ibm 
-just a ibm files ftp://computermuseum.informatik.uni-stuttgart.de/ibm/ibmparts.txt
-last changed/corrected: 19.03.2018
-
+# just a ibm files ftp://computermuseum.informatik.uni-stuttgart.de/ibm/ibmparts.txt
+# last changed/corrected: 19.03.2018
+<pre>
 IBM	Standard	Description
 ================================================
 1582501	UA725		INST. AMP.
@@ -409,4 +409,4 @@ IBM	Standard	Description
 8493681	UDH2841		1AMP DRIVER
 8493835	74S113		DUAL J-K F/F
 8493873	MC3486		QUAD RECEIVER
-
+</pre>
