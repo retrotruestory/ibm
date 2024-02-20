@@ -1,5 +1,5 @@
 # ibm 
-just a ibm files 
+just a ibm files ftp://computermuseum.informatik.uni-stuttgart.de/ibm/ibmparts.txt
 last changed/corrected: 19.03.2018
 
 IBM	Standard	Description
