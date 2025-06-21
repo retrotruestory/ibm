@@ -1,6 +1,6 @@
 # ibm 
 # just a ibm files ftp://computermuseum.informatik.uni-stuttgart.de/ibm/ibmparts.txt
-# last changed/corrected: 19.03.2018
+# last changed/corrected: 22.06.2025
 <pre>
 IBM	Standard	Description
 ================================================
